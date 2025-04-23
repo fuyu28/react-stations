@@ -1,0 +1,12 @@
+.App-header {
+  background-color: #f5f5f5;
+}
+
+.App-intro {
+  font-size: large;
+  margin-top: 20px;
+}
+
+.Dog-list-container {
+  object-fit: cover;
+}
